@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1.csproj", "{646A44C4-2A52-4181-908E-97E6AE7438DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "задание 2", "..\задание 2\задание 2.csproj", "{F9665B0A-11BE-4984-A99B-7A6115C91EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "..\ConsoleApp2\ConsoleApp2.csproj", "{A0742982-D194-410C-928C-0A68EB9942CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646A44C4-2A52-4181-908E-97E6AE7438DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646A44C4-2A52-4181-908E-97E6AE7438DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646A44C4-2A52-4181-908E-97E6AE7438DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646A44C4-2A52-4181-908E-97E6AE7438DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9665B0A-11BE-4984-A99B-7A6115C91EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9665B0A-11BE-4984-A99B-7A6115C91EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9665B0A-11BE-4984-A99B-7A6115C91EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9665B0A-11BE-4984-A99B-7A6115C91EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0742982-D194-410C-928C-0A68EB9942CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0742982-D194-410C-928C-0A68EB9942CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0742982-D194-410C-928C-0A68EB9942CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0742982-D194-410C-928C-0A68EB9942CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FFC37D0-E36E-4ECA-B738-22A1891BAE95}
+	EndGlobalSection
+EndGlobal
